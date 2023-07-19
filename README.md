@@ -7,3 +7,4 @@ You can see each of them below:
 |  #  |                                                         Project                                                          |                                           Live Demo                                           |
 | :-: | :----------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: |
 | 01  |   Email subscribe     |          [Live Demo](https://email-subscribe-orpin.vercel.app/)           |
+| 02  |   Pricing cards     |          [Live Demo](https://pricing-grids-zeta.vercel.app/)           |
